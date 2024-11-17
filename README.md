@@ -1,18 +1,70 @@
-# Ponte-Solidaria
+# Getting Started with Create React App
 
-Este repositório contém o código-fonte e a documentação do site da **Ponte Solidária**, uma organização sem fins lucrativos dedicada a diversas causas sociais e ambientais. O site foi desenvolvido com o objetivo de facilitar a comunicação entre a ONG, seus apoiadores, voluntários e o público em geral, promovendo a conscientização sobre suas iniciativas e facilitando a mobilização de recursos e pessoas para as causas apoiadas.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Sobre a Ponte Solidária
+## Available Scripts
 
-A **Ponte Solidária** trabalha em várias frentes de ação, apoiando comunidades vulneráveis e promovendo a preservação ambiental. O site foi criado para ser um canal transparente e acessível, com o intuito de:
-- Atrair doações para financiar os projetos da organização.
-- Promover campanhas de conscientização e engajamento social.
-- Oferecer informações claras sobre as iniciativas e resultados alcançados.
-- Facilitar o envolvimento da sociedade, seja por meio de doações financeiras, participação em campanhas ou ações de voluntariado.
+In the project directory, you can run:
 
-## Objetivos do Site
+### `npm start`
 
-- **Facilidade de comunicação**: Tornar a interação com apoiadores e potenciais voluntários mais direta e eficiente.
-- **Promoção de doações e apoio**: Tornar o processo de doação e engajamento mais simples e transparente.
-- **Conscientização**: Ajudar a divulgar a missão e os valores da Ponte Solidária, ampliando o alcance de suas ações sociais e ambientais.
-- **Interface intuitiva**: Fornecer uma navegação simples e clara, permitindo que qualquer pessoa entenda como pode contribuir e colaborar com a organização.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
